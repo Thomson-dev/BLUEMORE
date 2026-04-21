@@ -17,10 +17,10 @@ export default function Footer() {
               <line x1="3.51" y1="16" x2="20.49" y2="16"/>
             </svg>
           </div>
-          <div>
+          {/* <div>
             <div className="bm-footer-brand-label">The Art of Luxury Yacht Charter</div>
             <div className="bm-footer-brand-sub">BLUE M<em>O</em>RE · YACHTING</div>
-          </div>
+          </div> */}
         </div>
         <div className="bm-footer-socials">
           {SOCIAL_ICONS.map(s => (

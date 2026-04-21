@@ -12,8 +12,8 @@ const DEST_DATA: Record<string, DestinationDetail> = {
     description:
       "If you are looking for sunshine sailing in the East Mediterranean, then a yacht charter in Croatia could be for you, whether you are looking to charter a sailing yacht or a motor yacht. Croatia boasts over 1,200 islands along its stunning Dalmatian coast, offering pristine anchorages, medieval towns, and exceptional cuisine. From the historic walls of Dubrovnik to the party atmosphere of Hvar, Croatia delivers an unparalleled Mediterranean experience.",
     subs: [
-      { name: "Dubrovnik", img: "https://images.unsplash.com/photo-1555990793-da11153b6c14?w=600&q=80", popular: true },
-      { name: "Hvar",      img: "https://images.unsplash.com/photo-1597217561148-7e2a0eda7a79?w=600&q=80" },
+      { name: "Dubrovnik", img: "https://images.unsplash.com/photo-1596463059283-da257325bab8?w=600&q=80", popular: true },
+      { name: "Hvar",      img: "https://images.unsplash.com/photo-1596463059283-da257325bab8?w=600&q=80" },
       { name: "Korčula",   img: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&q=80" },
       { name: "Mljet",     img: "https://images.unsplash.com/photo-1596463059283-da257325bab8?w=600&q=80" },
       { name: "Split",     img: "https://images.unsplash.com/photo-1601000938259-8e13f0f8c918?w=600&q=80" },
@@ -26,7 +26,7 @@ const DEST_DATA: Record<string, DestinationDetail> = {
     description:
       "Greece is the ultimate sailing paradise with over 6,000 islands scattered across the Aegean and Ionian Seas. A yacht charter in Greece offers the perfect blend of ancient history, crystal-clear waters, and legendary Greek hospitality. Whether you choose the Cyclades with their iconic white-washed villages or the lush green Ionian islands, Greece promises an extraordinary yachting adventure you will never forget.",
     subs: [
-      { name: "Athens",    img: "https://images.unsplash.com/photo-1603566234305-b9df4e48b4a0?w=600&q=80", popular: true },
+      { name: "Athens",    img: "https://images.unsplash.com/photo-1596463059283-da257325bab8?w=600&q=80", popular: true },
       { name: "Mykonos",   img: "https://images.unsplash.com/photo-1527490087278-9c75be0b8052?w=600&q=80" },
       { name: "Santorini", img: "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=600&q=80" },
       { name: "Rhodes",    img: "https://images.unsplash.com/photo-1484910292437-025e5d13ce87?w=600&q=80" },
